@@ -71,7 +71,7 @@ This repo exists to make those hardware directions easier to discover and compar
 | [memovai/mimiclaw](https://github.com/memovai/mimiclaw) | Embedded project | OpenClaw-inspired hardware agent path on small chips. |
 | [RightNow-AI/picolm](https://github.com/RightNow-AI/picolm) | Embedded LLM direction | Useful for thinking about constrained-device inference. |
 | [Raspberry Pi](https://www.raspberrypi.com/) | Edge platform | Common base for self-hosted device experiments. |
-| [Jetson Orin Nano](https://developer.nvidia.com/embedded/jetson-orin-nano-developer-kit) | Edge AI platform | Useful for heavier local multimodal experiments. |
+| [Jetson Orin Nano](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/nano-super-developer-kit/) | Edge AI platform | Useful for heavier local multimodal experiments. |
 
 ## Experimental Hardware Projects
 
